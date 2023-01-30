@@ -1,1 +1,2 @@
 Its a smaple code file
+second line added from git hub
